@@ -1,5 +1,5 @@
 ### Hi there 👋
-![image](https://github.com/09baka/09baka/blob/main/banner.png)
+![image](https://github.com/09baka/09baka/blob/main/topImage.png)
 <!--
 **09baka/09baka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
