@@ -12,11 +12,11 @@
 ![Apple](https://img.shields.io/badge/iPhone%206-000.svg?style=flat-square&logo=apple&logoColor=white)  
 
 ## 💿User System
-![Windows](https://img.shields.io/badge/Windows%2011-24abf2.svg?style=flat-square&logo=windows11&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows%2011-0078D4.svg?style=flat-square&logo=windows11&logoColor=white)
 ![Android](https://img.shields.io/badge/Android%2012-3ddb84.svg?style=flat-square&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS%208-000.svg?style=flat-square&logo=ios&logoColor=white)  
   
 ## ⌨️ Work Code
-![HTML](https://img.shields.io/badge/HTML-0078d7.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-0078d7.svg?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0078d7.svg?style=flat-square&logo=javascript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=white)
