@@ -1,5 +1,9 @@
 ![image](https://github.com/09baka/09baka/blob/main/topImage.png)
 # JuziYou~🍊
+[![Twitter Follow](https://img.shields.io/twitter/follow/juzi_you?style=flat-square&logo=twitter)](https://twitter.com/juzi_you)
+[![Telegram](https://img.shields.io/badge/Telegram-bakaju-blue?style=flat-square&logo=telegram)](https://t.me/bakaju)
+[![HomePage](https://img.shields.io/website?label=HomePage&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA9QTFRF%2F%2F%2F%2F5IEpZjMAAJkA%2F%2F%2F%2F5xxf4QAAAAV0Uk5T%2F%2F%2F%2F%2FwD7tg5TAAAAd0lEQVR42szTSw6AIAxAwf7uf2YBraEtDWBY2IUL3oSQCCCTgXOAmSeAqqDytbLbgRogSkAVz2SHZEYsGeuMQAsKMAK04CWQdRXgehAR0AjoktngFpvAzQ%2BAbABJ%2BzKQrPvfHbq%2FMKH3V26U3cOJ%2BejT%2BwwuAQYA5JwLWehR64YAAAAASUVORK5CYII%3D&style=flat-square&url=https%3A%2F%2Fuuz.bid)](https://uuz.bid)
+[![Blog](https://img.shields.io/website?label=Blog&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA9QTFRF%2F%2F%2F%2F5IEpZjMAAJkA%2F%2F%2F%2F5xxf4QAAAAV0Uk5T%2F%2F%2F%2F%2FwD7tg5TAAAAd0lEQVR42szTSw6AIAxAwf7uf2YBraEtDWBY2IUL3oSQCCCTgXOAmSeAqqDytbLbgRogSkAVz2SHZEYsGeuMQAsKMAK04CWQdRXgehAR0AjoktngFpvAzQ%2BAbABJ%2BzKQrPvfHbq%2FMKH3V26U3cOJ%2BejT%2BwwuAQYA5JwLWehR64YAAAAASUVORK5CYII%3D&style=flat-square&url=https%3A%2F%2Flovemen.cc)](https://lovemen.cc)
 <!--
 **09baka/09baka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
