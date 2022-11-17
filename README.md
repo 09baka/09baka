@@ -9,7 +9,7 @@
 ![Lenovo](https://img.shields.io/badge/Y7000%202019%20PG0-e51f05.svg?style=flat-square&logo=lenovo&logoColor=white)
 ![Motorola](https://img.shields.io/badge/Motorola%20edge%20s-0078d7.svg?style=flat-square&logo=motorola&logoColor=white)
 ![Xiaomi](https://img.shields.io/badge/Xiaomi%2010%20Pro-ff6900.svg?style=flat-square&logo=xiaomi&logoColor=white)
-![Apple](https://img.shields.io/badge/iPhone%206-000.svg?style=flat-square&logo=apple&logoColor=white)  
+![Apple](https://img.shields.io/badge/iPhone%206-000.svg?style=flat-square&logo=apple&logoColor=white)
 ![Apple](https://img.shields.io/badge/iPad%20Pro%2010.5-000.svg?style=flat-square&logo=apple&logoColor=white)  
 
 ## 💿User System
